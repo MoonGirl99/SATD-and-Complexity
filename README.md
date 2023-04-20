@@ -25,3 +25,4 @@ Packages which are used in this project:
 4) [Numpy](https://numpy.org/)
 5) [Pandas](https://pandas.pydata.org/)
 6) [SciPy](https://scipy.org/)
+7) [PyDriller](https://pydriller.readthedocs.io/en/latest/)
